@@ -1,20 +1,19 @@
 body {
-    font-family: "Roboto" sans-serif;
-    color:#434455
-    background-color:#FFFFFF
+    font-family: "Roboto",sans-serif;
+    color:#434455;
+    background-color:#FFFFFF;
 }
 .top-line {
-    border-bottom: 1px solid
-    background-color #E7E9FC
+    background-color #E7E9FC;
 }
 .logo:hover {
-    color: blue
+    color: blue;
 }
 .logo:active {
     color:blueviolet
 }
 .logo {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -28,12 +27,12 @@ body {
 }
 
 .header-link:active {
-    color:blueviolet
+    color:blueviolet;
 }
         
 
 .header-link {
-        color:#2E2F42
+        color:#2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
@@ -44,12 +43,15 @@ body {
 
     
 .nav-item {
-color:#434455 ;
+color:#434455;
         font-size: 16px;
         font-weight: 400;
-        line-height: 1.07;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         
+}
+.nav-item:focus {
+    color:#404bbf;
 }
 .nav-item:hover {
     color:#404bbf;
@@ -80,15 +82,15 @@ color:#434455 ;
     box-shadow: 0px 4px 4px 0px
     text-align: center;
     color:#ffffff;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 
 .first-botton:hover {
-    color: blue
+    color: blue;
 }
 .first-button:active {
-    color:blueviolet
+    color:blueviolet;
 }
 
 
@@ -106,9 +108,10 @@ h2 {
     
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         text-align: center;
+        color:#2e2f42;
     
 }
 
@@ -163,7 +166,7 @@ h2 {
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        color:#4d5ae5;
+        color:#f4f4fd;
         text-transform: uppercase;
 }
 .footer-logo:hover {
