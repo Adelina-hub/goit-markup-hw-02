@@ -89,7 +89,7 @@ color:#434455;
 }
 
 .first-botton:hover {
-    background-color: #404BBF;
+    background-color:#404BBF;
 }
 .first-button:focus {
     background-color:#404BBF;
@@ -97,7 +97,7 @@ color:#434455;
 
 .about-us {
     line-height: 1.2;
-    color: #2e2f42;
+    color:#2E2F42;
 }
 
 
@@ -176,7 +176,7 @@ background-color: #FFFFFF;
 
 .forth-section-title {
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 1.12;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
