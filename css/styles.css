@@ -142,6 +142,9 @@ background-color: #FFFFFF;
         color:#434455;
 }
 
+.third-section-main {
+    background-color: #F4F4FD;
+}
 
    .third-section {
     color: #2e2f42;
@@ -154,6 +157,9 @@ background-color: #FFFFFF;
     text-transform: capitalize;
     
 
+}
+.team-list {
+    background-color: #FFFFFF;
 }
 
 .team-card {
