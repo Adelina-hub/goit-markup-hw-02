@@ -88,7 +88,7 @@ color:#434455;
     cursor: pointer;
 }
 
-.first-botton:hover {
+.first-button:hover {
     background-color: #404BBF;
 }
 .first-button:focus {
@@ -157,7 +157,8 @@ background-color: #FFFFFF;
 }
 
 .team-card {
-    
+    background-color:#FFFFFF ;
+    color: #2e2f42;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -173,12 +174,12 @@ background-color: #FFFFFF;
         line-height: 24px;
         letter-spacing: 0.02em;
         /* text-align: center; */
-        color:#2e2f42;
+        color:#434455;
 }
 
 .forth-section-title {
     font-size: 36px;
-    line-height: 1.11;
+    line-height:1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
