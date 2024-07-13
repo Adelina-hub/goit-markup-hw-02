@@ -129,9 +129,9 @@ color:#434455;
 background-color: #FFFFFF;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.5;
+        line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #434455;
+        color: #2e2f42;
 }
 .features-text {
    
@@ -146,8 +146,8 @@ background-color: #FFFFFF;
    .third-section {
     color: #2e2f42;
     font-size: 36px;
-        font-weight: 700;
-        letter-spacing: 0.02em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
     background-color:#F4F4FD;
     line-height: 1.11;
     text-align: center;
@@ -173,7 +173,7 @@ background-color: #FFFFFF;
         line-height: 24px;
         letter-spacing: 0.02em;
         /* text-align: center; */
-        color:#434455;
+        color:#2e2f42;
 }
 
 .forth-section-title {
